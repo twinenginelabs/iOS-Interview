@@ -2,8 +2,8 @@
 
 * iOS/Xcode version
 
-    iOS 8.0
-    Xcode 6.1
+    * iOS 8.0
+    * Xcode 6.1
 
 * System dependencies
 
@@ -13,4 +13,4 @@
 
 * Interview instructions
 
-    See INSTRUCTIONS.md
+    * See INSTRUCTIONS.md
